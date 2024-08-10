@@ -1,7 +1,7 @@
 <h1 align="center">Travel Traverse (Tours and Travel Website)</h1>
 
 Overview -
-A user-friendly front-end website designed for travelers to explore various destinations.
+A user-friendly front-end website designed for travelers to explore various destinations of their choices.
 
 
 Technologies Used - 
